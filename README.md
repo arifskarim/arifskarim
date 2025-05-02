@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World I'm Arif S Karim👋
 
 <!--
 **arifskarim/arifskarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently tudying at **STIKOM Uyelindo University in Kupang, NTT.**
+
+- 🌱 I’m currently learning [**Codeigniter 4**](https://codeigniter.com) Framework
+  😎😎
+
+![GASS](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwwYXk4bjR4YmY5b2xmeTRpNXg2Mnp2aHJzbDJ0cjgweDJ2dTJsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
