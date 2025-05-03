@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently tudying at **STIKOM Uyelindo University in Kupang, NTT.**
 
-- 🌱 I’m currently learning [**Codeigniter 4**](https://codeigniter.com) Framework
-  😎😎
+- 🌱 I’m currently learning Junior Full Stack Developer
 
   ##### Skills
 
